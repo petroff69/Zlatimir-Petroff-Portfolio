@@ -125,25 +125,26 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "VR Dev",
+    title: "Proggraming experience",
     companyName: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
     date: "from February 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Hello, my name is Zlatimir. I started programming five years ago and I started learning C# from the very beginning.",
+      "Eventually I expanded my skill set to include JS, and with persistence and dedication I'm gaining skills in both languages.  I have high skills in designing and developing clean backend applications.",
+      "Today, I continue to implement many ideas and projects, demonstrating an uncompromising approach to my work.",
+      "I have high skills in designing and developing clean backend applications.",
     ],
   },
   {
-    title: "Graphic design",
-    companyName: "Tesla",
-    icon: tesla,
+    title: "VR Developing",
+    companyName: "Meta",
+    icon: meta,
     iconBg: "#E6DEDD",
     date: "from 2021 - ",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "I'm excited to go into developing immersive VR experiences adapted for STEM education. My goal is to reduce motion sickness and increase immersion by using AI for stabilization. The desire to improve learning experiences and my love of software engineering combine together in my project. By using VR technology, I can make models and interactive lessons for some interesting STEM concepts.",
     ],
   },
   {
@@ -153,19 +154,17 @@ const experiences: TExperience[] = [
     iconBg: "#383E56",
     date: "from 2021 - ",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I can create all kinds of websites and software. I have my own websites showing my past projects. I can make different web applications and computer apps. My skills include HTML, CSS, and JavaScript. I work with various tools and frameworks to build strong and user-friendly sites. I always stay updated with the latest trends to ensure my work is modern and effective. I am dedicated to delivering high-quality solutions that meet the needs of my clients.",
     ],
   },
   {
-    title: "Full stack Developer",
-    companyName: "Meta",
-    icon: meta,
+    title: "Junior Developer",
+    companyName: "Tesla",
+    icon: tesla,
     iconBg: "#E6DEDD",
     date: "2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "As a talented student with a strong interest in AI, VR, and computer science, I am well-suited for junior dev. My passion for research, coupled with my sociable nature, makes me an ideal candidate for collaboration and innovation within the community. ",
     ],
   },
 ];
